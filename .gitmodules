@@ -1,0 +1,8 @@
+[submodule "cranelift"]
+	path = cranelift
+	url = https://github.com/zhengyangl/cranelift.git
+	branch = profiler
+[submodule "wasmtime"]
+	path = wasmtime
+	url = https://github.com/zhengyangl/wasmtime.git
+	branch = profiler
